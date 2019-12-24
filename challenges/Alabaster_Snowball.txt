@@ -1,0 +1,12 @@
+Location: UNpreparedness room (Hermey Hall)
+
+Objective: Log in as the user alabaster_snowball with a password of Password2, and land in a Bash prompt.
+
+elf@5cba52d312e0:~$ sudo -l
+Matching Defaults entries for elf on 5cba52d312e0:
+    env_reset, mail_badpass,
+    secure_path=/usr/local/sbin\:/usr/local/bin\:/usr/sbin\:/usr/bin\:/sbin\:/bin
+
+User elf may run the following commands on 5cba52d312e0:
+    (root) NOPASSWD: /usr/bin/chattr
+

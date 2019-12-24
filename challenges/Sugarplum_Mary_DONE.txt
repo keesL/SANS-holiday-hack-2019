@@ -1,0 +1,7 @@
+Location: Hermey Hall
+
+elf@6b01a5340013:~$ alias
+alias ls='ls --color=auto'
+elf@6b01a5340013:~$ which ls
+/usr/local/bin/ls
+elf@6b01a5340013:~$ /bin/ls
